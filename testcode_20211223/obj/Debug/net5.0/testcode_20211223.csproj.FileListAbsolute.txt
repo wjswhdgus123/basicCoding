@@ -1,0 +1,16 @@
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.exe
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.deps.json
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.runtimeconfig.json
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.runtimeconfig.dev.json
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.dll
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\ref\testcode_20211223.dll
+D:\code\testcode_20211223\testcode_20211223\bin\Debug\net5.0\testcode_20211223.pdb
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.csproj.AssemblyReference.cache
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.AssemblyInfoInputs.cache
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.AssemblyInfo.cs
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.csproj.CoreCompileInputs.cache
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.dll
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\ref\testcode_20211223.dll
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.pdb
+D:\code\testcode_20211223\testcode_20211223\obj\Debug\net5.0\testcode_20211223.genruntimeconfig.cache
