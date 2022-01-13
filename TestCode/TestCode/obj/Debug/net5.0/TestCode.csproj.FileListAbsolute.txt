@@ -1,0 +1,16 @@
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.exe
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.deps.json
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.runtimeconfig.json
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.runtimeconfig.dev.json
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.dll
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\ref\TestCode.dll
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\bin\Debug\net5.0\TestCode.pdb
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.csproj.AssemblyReference.cache
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.AssemblyInfoInputs.cache
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.AssemblyInfo.cs
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.csproj.CoreCompileInputs.cache
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.dll
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\ref\TestCode.dll
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.pdb
+D:\Users\master\Documents\basicCoding\TestCode\TestCode\obj\Debug\net5.0\TestCode.genruntimeconfig.cache
